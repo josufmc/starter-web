@@ -16,6 +16,8 @@ Deployment should be in a web server or the local file system.
 
 ## How To Contribute
 
+Please, fork this repository.
+
 ### Copyright
 
 2017 Git Training
