@@ -15,3 +15,7 @@ The purpose is t provide examples for Git training.
 Deployment should be in a web server or the local file system.
 
 ## How To Contribute
+
+### Copyright
+
+2017 Git Training
