@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website to test Git
+This is a simple website to test Git. Adding a line for rebasing
 
 ## Introduction
 
