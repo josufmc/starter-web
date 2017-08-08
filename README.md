@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website to test Git. Adding a line for rebasing, the more changes for my feature branch
+This is a simple website to test Git. Adding a line for rebasing, the more changes for my feature branch. Updatying after stash.
 
 ## Introduction
 
